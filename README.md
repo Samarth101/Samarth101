@@ -30,16 +30,16 @@ class Samarth:
                             "LookML", "BigQuery"]
         self.stack       = {
             "ML"    : ["PyTorch", "TensorFlow", "Scikit-learn"],
-            "Cloud" : ["AWS", "GCP", "Azure"],
-            "API"   : ["FastAPI", "Flask", "Django"],
-            "Data"  : ["BigQuery", "LookML", "dbt"],
+            "Cloud" : ["AWS", "GCP"],
+            "API"   : ["FastAPI", "Flask"],
+            "Data"  : ["BigQuery", "LookML"],
             "Ops"   : ["Docker", "Kubernetes", "MLflow"]
         }
         self.currently  = "⚡ Building next-gen ML pipelines"
-        self.mantra     = "Data is the new oil. ML is the engine."
+        self.mantra     = "Mining Curiously"
 
     def __str__(self):
-        return f"Turning raw data into intelligent systems 🚀"
+        return f"My complete usable intelligent system"
 ```
 
 <br clear="right"/>
@@ -61,12 +61,10 @@ class Samarth:
 <!-- API / Backend -->
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=0066ff)
 ![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=0066ff)
-![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=0066ff)
 
 <!-- Cloud -->
 ![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=7b00ff)
 ![GCP](https://img.shields.io/badge/GCP-0a0a0a?style=for-the-badge&logo=googlecloud&logoColor=7b00ff)
-![Azure](https://img.shields.io/badge/Azure-0a0a0a?style=for-the-badge&logo=microsoftazure&logoColor=7b00ff)
 
 <!-- Data / Ops -->
 ![BigQuery](https://img.shields.io/badge/BigQuery-0a0a0a?style=for-the-badge&logo=googlebigquery&logoColor=00fff0)
@@ -122,8 +120,8 @@ mission_log:
     - "📡  APIs     →  High-performance FastAPI services"
     - "📊  LookML   →  Data Modeling & BI Dashboards"
     - "🗄️  BigQuery →  Large-scale Data Analytics"
-  current_build : "⚡ [YOUR CURRENT PROJECT — replace me]"
-  open_to       : "Collaborations · Research · Freelance"
+  current_build : "⚡ "
+  open_to       : "Collaborations · Research . BrainStorm"
 ```
 
 ---
@@ -134,9 +132,8 @@ mission_log:
 ## ◈ ESTABLISH CONNECTION ◈
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0a0a0a?style=for-the-badge&logoColor=00fff0&color=0a0a0a&labelColor=00fff0)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0066ff&color=0a0a0a&labelColor=0a0a0a)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=twitter&logoColor=00fff0&color=0a0a0a&labelColor=0a0a0a)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=7b00ff&color=0a0a0a&labelColor=0a0a0a)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0066ff&color=0a0a0a&labelColor=0a0a0a)](https://www.linkedin.com/in/samarth-bhandegaonkar-aba116317/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=7b00ff&color=0a0a0a&labelColor=0a0a0a)](mailto:bhandegaonkarsamarth2@gmail.com)
 
 <br/>
 
